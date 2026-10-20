@@ -1,0 +1,13 @@
+{
+  "id": "04_telehealth_india",
+  "industry": "Digital health",
+  "question_type": "funding + regulatory trend",
+  "brief": "Analyze the telehealth sector in India: major players, funding trends since 2023, and the regulatory framework for telemedicine, including recent policy changes.",
+  "time_horizon": "last 30 months",
+  "expected_sections": [
+    "Major players",
+    "Funding trends",
+    "Regulatory framework"
+  ],
+  "expected_content": "Players and funding events with dates; regulation described with source (government or law-firm). Good test for entity extraction of rounds and dates."
+}

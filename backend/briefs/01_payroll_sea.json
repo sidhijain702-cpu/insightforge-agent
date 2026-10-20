@@ -1,0 +1,14 @@
+{
+  "id": "01_payroll_sea",
+  "industry": "HR / Payroll SaaS",
+  "question_type": "competitive landscape",
+  "brief": "Summarize the competitive landscape for B2B payroll software in Southeast Asia. Focus on pricing, recent funding rounds, and product gaps that a new entrant could exploit.",
+  "time_horizon": "last 18 months",
+  "expected_sections": [
+    "Competitor landscape",
+    "Pricing models",
+    "Recent funding",
+    "Product gaps and opportunities"
+  ],
+  "expected_content": "Named vendors with regional footprint; at least one pricing data point; funding amounts with dates; 2-3 explicit gaps. Funding figures are the likeliest place for source conflicts, so a Gaps note about disagreement is a good sign."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "02_ev_charging_eu",
+  "industry": "Energy / Mobility",
+  "question_type": "regulation + market sizing",
+  "brief": "How is the public EV charging market in the EU evolving? Cover the AFIR regulation requirements, the largest network operators, and recent investment or consolidation activity.",
+  "time_horizon": "last 24 months",
+  "expected_sections": [
+    "Regulatory requirements (AFIR)",
+    "Leading network operators",
+    "Investment and consolidation"
+  ],
+  "expected_content": "Regulation dates/thresholds traceable to .gov/.europa.eu style sources (high credibility); operator names; at least one M&A or funding event."
+}

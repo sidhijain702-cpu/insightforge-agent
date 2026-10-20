@@ -1,0 +1,14 @@
+{
+  "id": "03_ai_coding_assistants",
+  "industry": "Developer tools / AI",
+  "question_type": "product comparison",
+  "brief": "Compare the leading AI coding assistants for enterprise teams: pricing tiers, supported IDEs, security and compliance features, and notable recent product launches.",
+  "time_horizon": "last 12 months",
+  "expected_sections": [
+    "Pricing tiers",
+    "IDE and platform support",
+    "Security and compliance",
+    "Recent launches"
+  ],
+  "expected_content": "Side-by-side style facts per product; pricing is volatile so recency ranking should visibly prefer newer sources; expect MEDIUM/LOW confidence where vendors' own pages are the only source."
+}

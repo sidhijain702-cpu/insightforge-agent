@@ -1,0 +1,14 @@
+{
+  "id": "05_finops_tools",
+  "industry": "Cloud infrastructure",
+  "question_type": "vendor landscape + trends",
+  "brief": "Map the cloud cost management (FinOps) tooling market: key vendors, how they price, acquisitions in the past two years, and the main customer pain points these tools do not yet solve.",
+  "time_horizon": "last 24 months",
+  "expected_sections": [
+    "Key vendors",
+    "Pricing approaches",
+    "Acquisitions and consolidation",
+    "Unsolved customer pain points"
+  ],
+  "expected_content": "Vendor list, pricing models (percent-of-spend vs flat), named acquisitions with dates, pain points synthesized across sources (a good test of cross-source synthesis rather than fact lookup)."
+}

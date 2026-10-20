@@ -1,0 +1,36 @@
+# --- agents / orchestration ---
+deepagents>=0.0.10          # Planner root agent + `task` tool (subagents) + write_todos
+langgraph>=0.2.50           # pipeline state machine
+langchain-core>=0.3
+langchain-groq>=0.2         # Groq LLM
+
+# --- web search + parsing ---
+tavily-python>=0.5          # default search provider (Brave/SerpAPI use plain httpx)
+httpx>=0.27
+trafilatura>=1.12           # full-article extraction + metadata (author, date)
+
+# --- documents + vectors ---
+qdrant-client>=1.10         # vector store (local mode, no Docker needed)
+fastembed>=0.3              # small local embedding model (BAAI/bge-small-en-v1.5)
+docling>=2.0                # PDF -> semantic chunks (heavy; optional, pypdf fallback below)
+pypdf>=4.0                  # fallback PDF text extraction if Docling is unavailable
+numpy>=1.26
+
+# --- API ---
+fastapi>=0.110
+uvicorn[standard]>=0.29
+sse-starlette>=2.0
+python-multipart>=0.0.9
+pydantic>=2.6
+pydantic-settings>=2.2
+python-dotenv>=1.0
+
+# --- scheduler / export / auth ---
+apscheduler>=3.10,<4
+PyJWT>=2.7
+markdown>=3.5
+weasyprint>=61              # PDF export (needs pango on some OSes; fpdf2 fallback below)
+fpdf2>=2.7
+
+# --- tests ---
+pytest>=8.0
